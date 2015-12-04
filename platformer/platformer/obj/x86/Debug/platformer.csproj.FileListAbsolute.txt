@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\bin\x86\Debug\platformer.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\bin\x86\Debug\platformer.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\obj\x86\Debug\platformer.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\obj\x86\Debug\platformer.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\obj\x86\Debug\platformer.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\bin\x86\Debug\Content\char.xnb
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\bin\x86\Debug\Content\crosshair.xnb
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\bin\x86\Debug\Content\platform.xnb
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\bin\x86\Debug\platformer.exe.manifest
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\bin\x86\Debug\platformer.application
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\obj\x86\Debug\platformer.exe.manifest
+C:\Users\Gebruiker\Documents\Visual Studio 2010\Projects\platformer\platformer\platformer\obj\x86\Debug\platformer.application

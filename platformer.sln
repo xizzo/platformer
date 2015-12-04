@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "platformer", "platformer\platformer\platformer.csproj", "{6515C9FE-15DA-47FA-BC3B-7F32E41E22CB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "platformerContent", "platformer\platformerContent\platformerContent.contentproj", "{6EA007C0-9E9B-49BE-9485-8B210AB46BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6515C9FE-15DA-47FA-BC3B-7F32E41E22CB}.Debug|x86.ActiveCfg = Debug|x86
+		{6515C9FE-15DA-47FA-BC3B-7F32E41E22CB}.Debug|x86.Build.0 = Debug|x86
+		{6515C9FE-15DA-47FA-BC3B-7F32E41E22CB}.Release|x86.ActiveCfg = Release|x86
+		{6515C9FE-15DA-47FA-BC3B-7F32E41E22CB}.Release|x86.Build.0 = Release|x86
+		{6EA007C0-9E9B-49BE-9485-8B210AB46BB5}.Debug|x86.ActiveCfg = Debug|x86
+		{6EA007C0-9E9B-49BE-9485-8B210AB46BB5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
